@@ -21,3 +21,5 @@ Training the model======**python train.py**
 Training the model======**python inference.py** ; This process will load the trained **best.pt**, which is saved in the output directory.
 
 The dataset and model I used for training are placed in: [data_model_link](https://drive.google.com/drive/u/0/folders/1fo03cko_eLEt9DjZXVibHygjDKK5T9CK); Besides, token_max.py can be used to view the maximum token length of the data set, providing a reference for the subsequent _max_len_ setting.
+
+Reference：https://blog.csdn.net/qq_43692950/article/details/143642844
