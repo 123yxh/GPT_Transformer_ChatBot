@@ -1,4 +1,3 @@
-::: center
-GPT_Transformer_ChatBot
-::: 
-
+<p align="center">
+  GPT_Transformer_ChatBot
+</p>
