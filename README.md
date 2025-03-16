@@ -1,4 +1,4 @@
-<div align='center' ><font size='70'>GPT_Transformer_ChatBot</font></div>
+<div align='center' ><font size='170'>GPT_Transformer_ChatBot</font></div>
 
 ## First Step
 Download the dataset and process it into a jsonl file and place it in the data folder; the format of the dataset should be like this：
