@@ -1,4 +1,4 @@
-<div align='center' ><font size='170'>**GPT_Transformer_ChatBot**</font></div>
+<div align='center' ><font size='170'>GPT_Transformer_ChatBot</font></div>
 
 ## First Step
 Download the dataset and process it into a jsonl file and place it in the data folder; the format of the dataset should be like this：
@@ -20,4 +20,4 @@ Training the model======**python train.py**
 ## Five Step
 Training the model======**python inference.py** ; This process will load the trained **best.pt**, which is saved in the output directory.
 
-The dataset and model I used for training are placed in: [xxxx](https://drive.google.com/drive/u/0/folders/1fo03cko_eLEt9DjZXVibHygjDKK5T9CK); Besides, token_max.py can be used to view the maximum token length of the data set, providing a reference for the subsequent _max_len_ setting.
+The dataset and model I used for training are placed in: [data_model_link](https://drive.google.com/drive/u/0/folders/1fo03cko_eLEt9DjZXVibHygjDKK5T9CK); Besides, token_max.py can be used to view the maximum token length of the data set, providing a reference for the subsequent _max_len_ setting.
